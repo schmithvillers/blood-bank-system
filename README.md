@@ -2,8 +2,8 @@
 ## Functionality
 * Anyone can see the Blood Availability Page even if they haven't logged in. 
 * Individual (Everyone as to register first and then sign up so that they can request blood samples)
-* Hospital (Every Hospital has to register and login first onyl then can they access the Requests page and Add Blood Info Page)
-* Once the hospital has logged in they can see the requests that the individual had made on the Availibility page
+* Hospital (Every Hospital has to register and login first only then can they access the Requests page and Add Blood Info Page)
+* Once the hospital has logged in they can see the requests that the individual had made on the Availability page
 
 ## Login and Register Pages    
 ![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(13).png)
