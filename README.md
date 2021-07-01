@@ -1,11 +1,11 @@
 # Blood Bank System
 
 ## Login and Register Pages    
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(13).png)
+![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(14).png)
+![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(15).png)
+![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(16).png)
 ## Blood Availability Page    
-![image]()
+![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(17).png)
 ## Add Blood Info and Request Page (only visible to hospitals)
-![image]()
+![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(18).png)
