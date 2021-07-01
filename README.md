@@ -9,3 +9,9 @@
 ![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(17).png)
 ## Add Blood Info and Request Page (only visible to hospitals)
 ![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(18).png)
+## Database    
+## 4 tables created inside the database, 
+* Hospital Table
+* User Table
+* Requests Table
+* Availability Table
