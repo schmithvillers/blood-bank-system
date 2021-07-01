@@ -16,7 +16,7 @@
 * Requests Table
 * Availability Table
 ![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(19).png)
-![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(20).png)
 ![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(21).png)
 ![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(22).png)
 ![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(23).png)
+![image](https://github.com/schmithvillers/blood-bank-system/blob/main/images/Screenshot%20(24).png)
